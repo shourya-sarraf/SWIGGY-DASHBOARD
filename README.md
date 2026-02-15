@@ -77,9 +77,18 @@ The analysis is based on **Swiggy-style food delivery data sourced from Kaggle**
 - Automate refresh with updated CSV data
 
 ---
+## 📸 Dashboard Screenshots
 
+### Home Page
+![Home Page](https://github.com/shourya-sarraf/SWIGGY-DASHBOARD/raw/main/IMAGES/Screenshot%202026-02-15%20170933.png)
+
+### Dashboard Overview
+![Dashboard Overview](https://github.com/shourya-sarraf/SWIGGY-DASHBOARD/raw/main/IMAGES/Screenshot%202026-02-15%20170425.png)
+---
 ## 👤 Author
 **Shourya Sarraf**  
 Aspiring Data Analyst | Power BI | Data Visualization
+
+
 
 
